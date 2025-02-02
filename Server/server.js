@@ -60,7 +60,6 @@ app.delete("/delete-post/:id", async (req, res) => {
   res.json({ message: "Post deleted successfully!" });
 });
 
-// ===== COMMENTS ROUTES =====
 // Get all comments
 app.get("/comments", async (_, res) => {
   const result = await db.query("SELECT * FROM comments");

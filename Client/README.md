@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# I have achieved all of the standard requirements, i was looking into incorportating multiple tables such as users and comments however i struggled abit so i scraped it however next week i will make it work. As for the css as it wasnt a main requirement i used previous css i used in my older assignments as well as some help from ai where things wouldnt fit on the screen. As for parts where i struggled, id say that the server took up the most time as it was a memory refresh since we havent worked with them in a assignment for a while, however if i had to do it again now it would be quicker, but things were working smoothly and i didnt run into any massive bugs, mostly just small fixes.
